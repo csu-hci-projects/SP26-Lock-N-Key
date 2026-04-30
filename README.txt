@@ -1,4 +1,4 @@
-Checkpoint 1 Videos:
+Checkpoint 2 Videos:
 - Project overview video - [https://youtu.be/xY9TMq20Bdw]
 - Project Code video - [https://youtu.be/Hqcukyqge1U]
 
